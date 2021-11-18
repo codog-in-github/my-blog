@@ -1,5 +1,4 @@
 import React from "react";
-import less from './less/main.less'
 
 export class App extends React.Component {
     constructor(){
